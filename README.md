@@ -25,5 +25,7 @@ This project implements a pipelined MIPS processor using Verilog HDL and verifie
 - Verified CPU behavior through simulation
 - Verified GPIO LED and 7-segment peripheral operation
 
-<img width="957" height="561" alt="testbench_TCL_result" src="https://github.com/user-attachments/assets/d2872116-6eba-4987-bc04-3b95f8061067" />
-<img width="1918" height="1020" alt="result" src="https://github.com/user-attachments/assets/9ba9e04e-32dd-49fe-adff-2ac4af69b479" />
+
+
+<img width="478" height="230" alt="testbench_TCL_result" src="https://github.com/user-attachments/assets/d2872116-6eba-4987-bc04-3b95f8061067" />
+<img width="959" height="510" alt="result" src="https://github.com/user-attachments/assets/9ba9e04e-32dd-49fe-adff-2ac4af69b479" />
