@@ -1,4 +1,3 @@
-<img width="957" height="561" alt="testbench_TCL_result" src="https://github.com/user-attachments/assets/7ca65259-dfaa-4212-89c2-3af61b85a7be" /># project_MIPS
 # project_MIPS
 
 # MIPS Processor Pipeline Implementation
